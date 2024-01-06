@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My University Projects XD**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedAbdel-Azeem](https://github.com/MohamedAbdel-Azeem)
 

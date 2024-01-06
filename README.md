@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelazeem</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student in the German University in Cairo (GUC))</h3>
 
-- 🔭 I’m currently working on **My University Projects XD**
+- 🔭 I’m currently working on **[The Odin Project](https://www.theodinproject.com/dashboard)**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 

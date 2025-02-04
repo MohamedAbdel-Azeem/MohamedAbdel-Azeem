@@ -10,18 +10,25 @@
     </a>
 </p>
 
+<hr/>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css,tailwindcss,react,nodejs,express,mongodb,postgresql,git,postman&perline=11"/>
 </p>
 
+<hr/>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
       <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdel-Azeem&theme=onestar&row=1&column=4"/>
   </p>
+
+<hr/>
+  
+  <h3 align="left">📊 GitHub Stats: </h3>
   <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdel-Azeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdel-Azeem&layout=compact&langs_count=5&theme=codeSTACKr"/>
-    <a/>
   </p>
